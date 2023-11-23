@@ -59,9 +59,12 @@ Procedure:
 5. Check all the gates following the same procedure.
 
 PROGRAM:
+
 */
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by: Nagalapuram Hasif
+
 RegisterNumber:23010367
 
 module ex1(a,b,y1,y2,y3,y4,y5,y6,y7);
@@ -75,6 +78,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 */
+
 end module
 
 Logic symbol & Truthtable:

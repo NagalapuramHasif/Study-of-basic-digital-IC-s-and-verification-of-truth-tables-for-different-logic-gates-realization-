@@ -59,8 +59,10 @@ Procedure:
 5. Check all the gates following the same procedure.
 
 PROGRAM:
+![Screenshot 2023-11-26 134226](https://github.com/NagalapuramHasif/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365567/a44328ab-24fd-4bea-8d64-57bcac2cc0ff)
 
-*/
+*/![Uploading Screenshot 2023-11-26 134241.png…]()
+
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
 Developed by: Nagalapuram Hasif
@@ -92,10 +94,10 @@ xnor (y7,a,b);
 end module
 
 Logic symbol & Truthtable:
-![image](https://github.com/NagalapuramHasif/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365567/3bfe9647-8816-4018-8a7f-cd52eb775717)
+![Screenshot 2023-11-26 133608](https://github.com/NagalapuramHasif/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365567/8587682f-6cb1-4527-ae02-cb3599b53724)
+![Exp1 truthtable](https://github.com/NagalapuramHasif/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365567/a375536e-47a8-4a5d-872e-209d972996fd)
 
 OUTPUT:
-![image](https://github.com/NagalapuramHasif/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365567/b74bd0c7-1559-4f87-a031-1a0c97874c90)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
